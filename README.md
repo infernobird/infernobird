@@ -1,3 +1,5 @@
+<hr>
+
 # 👋 Hey! You might know me as MrMiddleman... but who am I?
 
 <hr>
