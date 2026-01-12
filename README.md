@@ -2,8 +2,6 @@
 
 # 👋 Hey! You might know me as TheMiddleman... but who am I?
 
-<hr>
-
 <p align = "center">
   <img width="140" src="https://komarev.com/ghpvc/?username=TMiddleman&style=for-the-badge">
   <img width="85" height="185" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" href="mailto:tmiddleman@proton.me">
