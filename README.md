@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-  <img width="496" height="490" alt="image" src="https://github.com/user-attachments/assets/f3a4ce6d-49d7-4e01-9df3-644feb0fd2d1"/>
+  <img width="496" height="490" alt="image" src="https://github.com/user-attachments/assets/41607677-fb0d-4b03-a779-5c3d3468fe48" />
 </p>
 
 <p align="center">
