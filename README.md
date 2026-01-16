@@ -1,11 +1,11 @@
 <hr>
 
-# 👋🏻 Hey! You might know me as Mr. Middleman... but who am I?
+# 👋🏻 Hey! You might know me as InfernoBird... but who am I?
 
 <p align = "center">
-  <img width="140" src="https://komarev.com/ghpvc/?username=TMiddleman&style=for-the-badge">
+  <img width="140" src="https://komarev.com/ghpvc/?username=infernobird&style=for-the-badge">
   <img width="85" height="185" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" href="mailto:tmiddleman@proton.me">
-  <img src="https://img.shields.io/github/stars/TMiddleman?style=for-the-badge&amp;?affiliations=OWNER%2CCOLLABORATOR">
+  <img src="https://img.shields.io/github/stars/infernobird?style=for-the-badge&amp;?affiliations=OWNER%2CCOLLABORATOR">
 </p>
 
 <hr>
@@ -45,14 +45,14 @@
 <hr>
 
 <p align="center">
-  <a href="https://github.com/TMiddleman">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TMiddleman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TMiddleman&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/infernobird">
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=infernobird&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=infernobird&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   </p>
 
 <hr>
 
-<a href="https://github.com/TMiddleman">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMiddleman&bg_color=050e14&color=54aeff&line=54aeff&point=f8f8f2&area=true&hide_border=true&font=Iosevka" width="100%" />
+<a href="https://github.com/infernobird">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=infernobird&bg_color=050e14&color=54aeff&line=54aeff&point=f8f8f2&area=true&hide_border=true&font=Iosevka" width="100%" />
 </a>
