@@ -1,6 +1,6 @@
 <hr>
 
-# 👋🏻 Hey! You might know me as InfernoBird... but who am I?
+# 👋🏻 Hey! You might know me as InfernoBird... but who am I? 🔥
 
 <p align = "center">
   <img width="140" src="https://komarev.com/ghpvc/?username=infernobird&style=for-the-badge">
